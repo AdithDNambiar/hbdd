@@ -82,11 +82,11 @@ export default function App() {
           <MoonStar size={52} className="main-icon" />
           <h1>Constellation for Dheedhi</h1>
           <p>Play this ... </p>
-          <p>  </p>
+          <p>_</p>
           <p>Click on every  5 stars that appears after clicking starts </p>
-          <p> </p>
+          <p>_</p>
           <p>Every star showing opens a memory.</p>
-          <p> </p>
+          <p>_</p>
           <p>Cringe aano bohr aano rasundo areela... ente mindil vannath cheythu..FOR YOU.</p>
 
           <button className="icon-btn" onClick={() => setStarted(true)}>
