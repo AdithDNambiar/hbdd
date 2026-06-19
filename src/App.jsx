@@ -81,7 +81,7 @@ export default function App() {
         >
           <MoonStar size={52} className="main-icon" />
           <h1>Constellation for Dheedhi</h1>
-          <p>Play this ...Click on every stars </p>
+          <p>Play this ... </p>
           <p>  </p>
           <p>Click on every  5 stars that appears after clicking starts </p>
           <p> </p>
