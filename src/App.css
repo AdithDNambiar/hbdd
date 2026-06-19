@@ -199,8 +199,8 @@ button {
 }
 
 .memory-card img {
-  width: 180px;
-  height: 180px;
+  width: 350px;
+  height: 350px;
   border-radius: 24px;
   object-fit: cover;
   box-shadow: 0 12px 35px rgba(0, 0, 0, 0.35);
